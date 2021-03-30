@@ -11,7 +11,7 @@ Neste projeto desenvolvemos uma API REST para o gerenciamento de estoques de cer
 Neste projeto desenvolvemos uma API de gerenciamento de heróis utilizando Spring WebFlux. Além disso, usamos o banco DynamoDb localmente para armazenar nossos dados.
 ## Projeto 3 - Ecommerce API
 
-Neste projeto desenvolvemos uma solução de e-commerce com a arquitetura de microsserviços e aplicamos a integração entre eles orientada a eventos com Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry.
+Neste projeto desenvolvemos uma solução de e-commerce com a arquitetura de microsserviços e aplicamos a integração entre eles orientada a eventos com Apache Kafka para garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry.
 
 ## Projeto 4 - Java Kubernetes
 
